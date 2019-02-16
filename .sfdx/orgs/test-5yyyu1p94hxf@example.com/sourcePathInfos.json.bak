@@ -5,7 +5,7 @@
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app",
             "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1550355071000,
+            "modifiedTime": 1550355116000,
             "changeTime": 1550341604233,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
@@ -20,7 +20,7 @@
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main",
             "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1550355068000,
+            "modifiedTime": 1550355113000,
             "changeTime": 1550341603941,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
@@ -35,7 +35,7 @@
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default",
             "isDirectory": true,
             "size": 128,
-            "modifiedTime": 1550355068000,
+            "modifiedTime": 1550355113000,
             "changeTime": 1550341603943,
             "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
             "isMetadataFile": false,
@@ -50,7 +50,7 @@
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura",
             "isDirectory": true,
             "size": 288,
-            "modifiedTime": 1550355068000,
+            "modifiedTime": 1550355113000,
             "changeTime": 1550341603944,
             "contentHash": "8a0d2056140b2045ff9fd7273e546fe0ceed22f0",
             "isMetadataFile": false,
@@ -422,15 +422,15 @@
     [
         "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChild.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChild.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 216,
             "modifiedTime": 1550355067301,
             "changeTime": 1550355067301,
-            "isWorkspace": false,
-            "contentHash": "0a5b47d20b2d1702d24e80eac2e5ecb03243b364"
+            "contentHash": "0a5b47d20b2d1702d24e80eac2e5ecb03243b364",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -694,7 +694,7 @@
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild",
             "isDirectory": true,
             "size": 352,
-            "modifiedTime": 1550355052000,
+            "modifiedTime": 1550355113000,
             "changeTime": 1550341603946,
             "contentHash": "8aac3aa291d3bb19b30eb753d8d113001f726226",
             "isMetadataFile": false,
@@ -800,11 +800,11 @@
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchildController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 163,
-            "modifiedTime": 1550355051157,
-            "changeTime": 1550355051157,
+            "size": 161,
+            "modifiedTime": 1550355111781,
+            "changeTime": 1550355111781,
             "isWorkspace": false,
-            "contentHash": "3aabedf1967718bc3a504cb768ccdfaa563b5bd6"
+            "contentHash": "4a3c51c84db417205fce60cf13c26d00176902ba"
         }
     ],
     [
@@ -1008,7 +1008,7 @@
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-",
             "isDirectory": true,
             "size": 352,
-            "modifiedTime": 1550355071000,
+            "modifiedTime": 1550355116000,
             "changeTime": 1550342445643,
             "contentHash": "d1bd27c38caf0590ae39545008c5de77f79acd36",
             "isMetadataFile": false,

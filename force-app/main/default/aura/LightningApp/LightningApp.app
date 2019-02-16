@@ -1,5 +1,6 @@
 <aura:application extends="force:slds">
-<!--<c:componentNameController-->
+<!--<c:componentNameController
+<c:eventBubblingParent />-->
 
-<c:eventBubblingParent />
+<c:ceHandler />
 </aura:application>	

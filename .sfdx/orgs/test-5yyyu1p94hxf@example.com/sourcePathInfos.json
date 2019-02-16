@@ -5,7 +5,7 @@
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app",
             "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1550355116000,
+            "modifiedTime": 1550357221000,
             "changeTime": 1550341604233,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
@@ -20,7 +20,7 @@
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main",
             "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1550355113000,
+            "modifiedTime": 1550357218000,
             "changeTime": 1550341603941,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
@@ -35,7 +35,7 @@
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default",
             "isDirectory": true,
             "size": 128,
-            "modifiedTime": 1550355113000,
+            "modifiedTime": 1550357218000,
             "changeTime": 1550341603943,
             "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
             "isMetadataFile": false,
@@ -47,16 +47,15 @@
     [
         "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1550355113000,
-            "changeTime": 1550341603944,
-            "contentHash": "8a0d2056140b2045ff9fd7273e546fe0ceed22f0",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 384,
+            "modifiedTime": 1550357218000,
+            "changeTime": 1550357218988,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "a385ffd60b8c6ea12d2ba3bab3a3fb12a7afadee"
         }
     ],
     [
@@ -65,7 +64,7 @@
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp",
             "isDirectory": true,
             "size": 320,
-            "modifiedTime": 1550341603000,
+            "modifiedTime": 1550357218000,
             "changeTime": 1550341603954,
             "contentHash": "1a8d1b4d6ee0fbd94764122254b8441b1e3c0351",
             "isMetadataFile": false,
@@ -77,16 +76,15 @@
     [
         "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningApp.app",
         {
+            "state": "u",
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningApp.app",
             "isDirectory": false,
-            "size": 122,
-            "modifiedTime": 1550339528664,
-            "changeTime": 1550341584057,
-            "contentHash": "163af3e710ae16886d8f71bbfaa36fe410e55ff2",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 138,
+            "modifiedTime": 1550357216744,
+            "changeTime": 1550357216744,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "07cdb2cbeee8fa8fa3a36da0f6464ac3cc507ec5"
         }
     ],
     [
@@ -796,15 +794,15 @@
     [
         "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchildController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchildController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 161,
             "modifiedTime": 1550355111781,
             "changeTime": 1550355111781,
-            "isWorkspace": false,
-            "contentHash": "4a3c51c84db417205fce60cf13c26d00176902ba"
+            "contentHash": "4a3c51c84db417205fce60cf13c26d00176902ba",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -1008,13 +1006,312 @@
             "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-",
             "isDirectory": true,
             "size": 352,
-            "modifiedTime": 1550355116000,
+            "modifiedTime": 1550357221000,
             "changeTime": 1550342445643,
             "contentHash": "d1bd27c38caf0590ae39545008c5de77f79acd36",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceEvent",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1550355873000,
+            "changeTime": 1550355873454,
+            "contentHash": "5b31bcdebdfe043327109aa642ee228a4157829e"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1550356845000,
+            "changeTime": 1550356845170,
+            "contentHash": "e000642cf6906f6c08e1d898df8a0b4ff2ba33c0"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1550356277000,
+            "changeTime": 1550356277240,
+            "contentHash": "7324a3aee7a2f237cd4150d5ce1011209941714d"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceEvent/ceEvent.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceEvent/ceEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 111,
+            "modifiedTime": 1550355872270,
+            "changeTime": 1550355872270,
+            "contentHash": "8f6897a1dade1cc726401b3bc0c25b524d702b25"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceEvent/ceEvent.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceEvent/ceEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 235,
+            "modifiedTime": 1550355860128,
+            "changeTime": 1550355861100,
+            "contentHash": "6005f5a0292693fa6fbc9d4a0e041e7134afe92d"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandler.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandler.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550356328751,
+            "changeTime": 1550356329284,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandler.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandler.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 506,
+            "modifiedTime": 1550356350182,
+            "changeTime": 1550356350182,
+            "contentHash": "1f678e9be5b17130becb6be1a4d8c440ed04567c"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandler.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandler.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1550356328748,
+            "changeTime": 1550356329262,
+            "contentHash": "8111960415aa2b59d601626fc577e0220294bea0"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandler.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandler.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1550356328750,
+            "changeTime": 1550356329273,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandler.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandler.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1550356328752,
+            "changeTime": 1550356329287,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandler.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandler.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1550356328751,
+            "changeTime": 1550356329280,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandlerController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandlerController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 337,
+            "modifiedTime": 1550356843197,
+            "changeTime": 1550356843197,
+            "contentHash": "e59c879aca519b9e5f39ada7320df0f7ef5f04b1"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandlerHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandlerHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550356328749,
+            "changeTime": 1550356329269,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandlerRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceHandler/ceHandlerRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550356328750,
+            "changeTime": 1550356329276,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifier.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifier.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550355993790,
+            "changeTime": 1550355993875,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifier.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifier.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1550355997550,
+            "changeTime": 1550355997550,
+            "contentHash": "1b81e7cb138d480fafd94cccfdec02ecba557f8f"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifier.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifier.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1550355993786,
+            "changeTime": 1550355993849,
+            "contentHash": "6322d1e9c8df44abbdee0531276a8492d3d08f65"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifier.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifier.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1550355993788,
+            "changeTime": 1550355993863,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifier.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifier.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1550355993791,
+            "changeTime": 1550355993953,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifier.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifier.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1550355993790,
+            "changeTime": 1550355993871,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifierController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifierController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 401,
+            "modifiedTime": 1550356275390,
+            "changeTime": 1550356275390,
+            "contentHash": "417a0cfaaa635c9c24d754841dbf9bb8967fcdd4"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifierHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifierHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550355993788,
+            "changeTime": 1550355993857,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifierRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/ceNotifier/ceNotifierRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550355993789,
+            "changeTime": 1550355993867,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
