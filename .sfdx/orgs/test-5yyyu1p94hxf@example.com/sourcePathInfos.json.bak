@@ -1,0 +1,1022 @@
+[
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1550341605000,
+            "changeTime": 1550341604233,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1550341603000,
+            "changeTime": 1550341603941,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1550341603000,
+            "changeTime": 1550341603943,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1550341603000,
+            "changeTime": 1550341603944,
+            "contentHash": "8a0d2056140b2045ff9fd7273e546fe0ceed22f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1550341603000,
+            "changeTime": 1550341603954,
+            "contentHash": "1a8d1b4d6ee0fbd94764122254b8441b1e3c0351",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningApp.app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 122,
+            "modifiedTime": 1550339528664,
+            "changeTime": 1550341584057,
+            "contentHash": "163af3e710ae16886d8f71bbfaa36fe410e55ff2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningApp.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1550182771327,
+            "changeTime": 1550341584066,
+            "contentHash": "7b64ce9432a63b89d1e380d4209742c2a42a5c67",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningApp.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningApp.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550182771329,
+            "changeTime": 1550341584061,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningApp.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningApp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1550182771328,
+            "changeTime": 1550341584055,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningApp.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningApp.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1550182771329,
+            "changeTime": 1550341584059,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningAppController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningAppController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1550182771327,
+            "changeTime": 1550341584070,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningAppHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningAppHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550182771328,
+            "changeTime": 1550341584063,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningAppRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/LightningApp/LightningAppRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550182771328,
+            "changeTime": 1550341584068,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/compEvent",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/compEvent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1550341603000,
+            "changeTime": 1550341603950,
+            "contentHash": "6d67647650cb00f3cf246126ff46e2ed572e478e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/compEvent/compEvent.evt",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/compEvent/compEvent.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550337070682,
+            "changeTime": 1550341584027,
+            "contentHash": "9227bdcf37af96d873886a5548e9928fa4677187",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/compEvent/compEvent.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/compEvent/compEvent.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 237,
+            "modifiedTime": 1550185617802,
+            "changeTime": 1550341584031,
+            "contentHash": "c97a81c86ba1a2526fcaf795d9e2e5f204d56e55",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1550341603000,
+            "changeTime": 1550341603956,
+            "contentHash": "b8f958a3212208dd86c34aa95d02c9beb5de19cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameController.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameController.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550182487980,
+            "changeTime": 1550341583978,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameController.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameController.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 590,
+            "modifiedTime": 1550244498243,
+            "changeTime": 1550341583959,
+            "contentHash": "87a3c7efcb03351274f7f6e4757dbb64a9fd8893",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameController.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameController.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 255,
+            "modifiedTime": 1550182487977,
+            "changeTime": 1550341583972,
+            "contentHash": "33cf7454cb0e446fdf27e4400440fa1af2c19766",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameController.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameController.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1550182487978,
+            "changeTime": 1550341583954,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameController.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameController.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1550182487980,
+            "changeTime": 1550341583969,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameController.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameController.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1550182487979,
+            "changeTime": 1550341583965,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameControllerController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameControllerController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 634,
+            "modifiedTime": 1550187425521,
+            "changeTime": 1550341583974,
+            "contentHash": "7b31dbe214b0620808b97a5d35d224596b799d80",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameControllerHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameControllerHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550182487978,
+            "changeTime": 1550341583956,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameControllerRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/componentNameController/componentNameControllerRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550182487978,
+            "changeTime": 1550341583975,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1550341603000,
+            "changeTime": 1550341603952,
+            "contentHash": "d00d99a6439087954400c45011216e7284116fcd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChild.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChild.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550339328264,
+            "changeTime": 1550341584049,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChild.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChild.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 195,
+            "modifiedTime": 1550339337450,
+            "changeTime": 1550341584041,
+            "contentHash": "24d552cb8a736bcc86d9e927af648e2b5d022091",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChild.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChild.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 250,
+            "modifiedTime": 1550339328261,
+            "changeTime": 1550341584033,
+            "contentHash": "6e312a5bf6b12b1412cb6d08b6f8396f26e298ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChild.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChild.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1550339328262,
+            "changeTime": 1550341584036,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChild.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChild.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1550339328264,
+            "changeTime": 1550341584046,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChild.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChild.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1550339328263,
+            "changeTime": 1550341584038,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChildController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChildController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 123,
+            "modifiedTime": 1550339351749,
+            "changeTime": 1550341584052,
+            "contentHash": "6cf4b366bb311b3fad6b49d87b8d16de9efee58c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChildHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChildHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550339328262,
+            "changeTime": 1550341584050,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChildRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingChild/eventBubblingChildRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550339328263,
+            "changeTime": 1550341584043,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1550341603000,
+            "changeTime": 1550341603949,
+            "contentHash": "507276be68df7ac230f7d91ce173142877ed5a01",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitter.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitter.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550337097984,
+            "changeTime": 1550341584008,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitter.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitter.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 185,
+            "modifiedTime": 1550340882567,
+            "changeTime": 1550341584023,
+            "contentHash": "2ea4af193b7899d70ec1b71abb93db0adb77ba9f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitter.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitter.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 252,
+            "modifiedTime": 1550337097982,
+            "changeTime": 1550341584005,
+            "contentHash": "82803d66667e7b3b44bdf72853296f8e8e339937",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitter.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitter.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1550337097983,
+            "changeTime": 1550341584017,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitter.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitter.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1550337097985,
+            "changeTime": 1550341584014,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitter.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitter.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1550337097983,
+            "changeTime": 1550341584018,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitterController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitterController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 123,
+            "modifiedTime": 1550337282209,
+            "changeTime": 1550341584002,
+            "contentHash": "11c1aea031c367e37192561fee22da4e55540430",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitterHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitterHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550337097982,
+            "changeTime": 1550341584020,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitterRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingEmitter/eventBubblingEmitterRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550337097983,
+            "changeTime": 1550341584010,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1550341603000,
+            "changeTime": 1550341603946,
+            "contentHash": "8aac3aa291d3bb19b30eb753d8d113001f726226",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchild.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchild.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550337510916,
+            "changeTime": 1550341583993,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchild.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchild.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 219,
+            "modifiedTime": 1550339353481,
+            "changeTime": 1550341583991,
+            "contentHash": "807b21b96cd16ab8e07097d5a9e811ec33825f60",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchild.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchild.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 255,
+            "modifiedTime": 1550337510911,
+            "changeTime": 1550341584000,
+            "contentHash": "20e244c292286338d613ff34a3ace438ca01f61f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchild.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchild.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1550337510914,
+            "changeTime": 1550341583996,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchild.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchild.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1550337510917,
+            "changeTime": 1550341583986,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchild.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchild.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1550337510916,
+            "changeTime": 1550341583988,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchildController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchildController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1550337698360,
+            "changeTime": 1550341583981,
+            "contentHash": "12748995a6ede3b91dbd2fd03c5bb559e9723fd0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchildHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchildHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550337510913,
+            "changeTime": 1550341583998,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchildRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingGrandchild/eventBubblingGrandchildRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550337510915,
+            "changeTime": 1550341583982,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1550341603000,
+            "changeTime": 1550341603957,
+            "contentHash": "d9ae6b4c9602d8ee167a4105090670391678973a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParent.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParent.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1550339363962,
+            "changeTime": 1550341583924,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParent.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 291,
+            "modifiedTime": 1550339371772,
+            "changeTime": 1550341583920,
+            "contentHash": "e53636fbc786ccbd3e678b2e616aa07497e7bec3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParent.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParent.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 251,
+            "modifiedTime": 1550339363960,
+            "changeTime": 1550341583950,
+            "contentHash": "83ce811e0c3735ed0c538007c323fa781c10fe15",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParent.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParent.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1550339363961,
+            "changeTime": 1550341583935,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParent.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParent.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1550339363962,
+            "changeTime": 1550341583927,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParent.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParent.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1550339363962,
+            "changeTime": 1550341583930,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParentController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParentController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 124,
+            "modifiedTime": 1550339437804,
+            "changeTime": 1550341583938,
+            "contentHash": "444ec9ba4ee803f6b71cc62e3d3dad703eafdee3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParentHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParentHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1550339363961,
+            "changeTime": 1550341583945,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParentRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/aura/eventBubblingParent/eventBubblingParentRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1550339363961,
+            "changeTime": 1550341583942,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1550341596000,
+            "changeTime": 1550341596406,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-",
+        {
+            "state": "n",
+            "sourcePath": "/Users/yosephkinfu/Documents/VS Code/Test 1/Events-Exercise-",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1550342447000,
+            "changeTime": 1550342445643,
+            "contentHash": "d1bd27c38caf0590ae39545008c5de77f79acd36",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
